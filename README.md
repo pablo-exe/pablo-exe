@@ -16,7 +16,7 @@ I explore how to make small language models more useful—and build software for
 
 | Project | Focus | Status |
 | :--- | :--- | :--- |
-| **[Gemma × CLINC150](https://github.com/pablo-exe/Gemma-E2B---CLINC150)** | Efficient adaptation for intent classification and out-of-scope detection. QLoRA, teacher–student distillation experiments, and memory-conscious training. | SFT results documented · distillation explored in a separate branch |
+| **[Gemma × CLINC150](https://github.com/pablo-exe/Gemma-E2B---CLINC150)** | Trying to improve state of the art models in specific task with small models. QLoRA, teacher–student distillation experiments, and memory-conscious training. | SFT results documented · distillation explored in a separate branch |
 | **[LLM from scratch](https://github.com/pablo-exe/LLM-from-scratch)** | Implementing a full LLM from scratch using pytorch and no AI. | Work in progress |
 
 **What interests me:** model adaptation, LLMs, and understanding where an approach breaks down.
