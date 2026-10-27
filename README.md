@@ -17,9 +17,9 @@ I explore how to make small language models more useful—and build software for
 | Project | Focus | Status |
 | :--- | :--- | :--- |
 | **[Gemma × CLINC150](https://github.com/pablo-exe/Gemma-E2B---CLINC150)** | Efficient adaptation for intent classification and out-of-scope detection. QLoRA, teacher–student distillation experiments, and memory-conscious training. | SFT results documented · distillation explored in a separate branch |
-| **[Countdown RLVR](https://github.com/pablo-exe/RL-Postraining)** | Reinforcement learning with verifiable rewards for arithmetic puzzles. GRPO, exact verification, supervised controls, and separate ID/OOD evaluation. | Work in progress · measured results pending |
+| **[LLM from scratch](https://github.com/pablo-exe/LLM-from-scratch)** | Implementing a full LLM from scratch using pytorch and no AI. | Work in progress |
 
-**What interests me:** model adaptation, efficient training, careful evaluation, and understanding where an approach breaks down.
+**What interests me:** model adaptation, LLMs, and understanding where an approach breaks down.
 
 ## Research
 
