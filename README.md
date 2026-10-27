@@ -35,11 +35,11 @@ My homelab is where I build tools for daily use, connect services, and learn by 
 <tr>
 <td width="50%" valign="top">
 
-### Kindle dashboard
+### Homelab
 
-A personal dashboard that gives an old Kindle a new purpose.
+A personal homelab that stores all my personal data and manages adhoc services.
 
-Integrates activity and health data, calendar events, and habits into a display designed for e-ink. Built with Python, API integrations, background refresh, caching, and Docker deployment.
+I enjoy homelabing, currently I'm working on a personal homelab with automated deployment and configuration of all my services, with back up. Where I store all my data and create personal services and bots.
 
 <sub>Personal project · private repository</sub>
 
